@@ -15,6 +15,3 @@ Foi praticado:
 - avegação entre páginas
 - Organização de informações em uma página web
 
-Arquivos ->
-index.html → exercícios e estudos básicos de HTML
-vitae.html → modelo de currículo vitae
