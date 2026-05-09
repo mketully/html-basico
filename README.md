@@ -8,7 +8,7 @@ Além dos exercícios de estudo, também criei um modelo simples de currículo v
 
 Foi praticado:
 - Estrutura básica de uma página HTML
-- ítulos e parágrafos
+- Títulos e parágrafos
 - Formatação de textos
 -Listas ordenadas e não ordenadas
 - Links internos e externos
